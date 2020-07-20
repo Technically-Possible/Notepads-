@@ -1,0 +1,10 @@
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\bin\Debug\CSharp Notepad.exe.config
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\bin\Debug\CSharp Notepad.exe
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\bin\Debug\CSharp Notepad.pdb
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\obj\Debug\CSharp Notepad.csprojAssemblyReference.cache
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\obj\Debug\CSharp_Notepad.Form1.resources
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\obj\Debug\CSharp_Notepad.Properties.Resources.resources
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\obj\Debug\CSharp Notepad.csproj.GenerateResource.cache
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\obj\Debug\CSharp Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\obj\Debug\CSharp Notepad.exe
+C:\Users\Lenovo ThinkPad\Documents\GitHub\Notepads-\C# NotePad\CSharp Notepad\obj\Debug\CSharp Notepad.pdb
