@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Notepad.Properties
+namespace CSharp_Notepad.Properties
 {
 
 

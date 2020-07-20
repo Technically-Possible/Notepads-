@@ -1,4 +1,4 @@
-﻿namespace Notepad
+﻿namespace CSharp_Notepad
 {
     partial class Form1
     {

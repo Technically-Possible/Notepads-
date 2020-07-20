@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{316067F0-4BAB-496C-A11F-0613C3EBB17A}</ProjectGuid>
+    <ProjectGuid>{787A34D7-5D48-408D-82FA-2166FBA7AFA8}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Notepad</RootNamespace>
-    <AssemblyName>Notepad</AssemblyName>
+    <RootNamespace>CSharp_Notepad</RootNamespace>
+    <AssemblyName>CSharp Notepad</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
