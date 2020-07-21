@@ -25,7 +25,10 @@
       document.getElementById("output").style.fontStyle = "normal";
       document.getElementById("output").style.textDecoration = "none";
       document.getElementById("output").style.fontWeight = "normal";
-    }
+      }
+      function saveStaticDataToFile() {
+          saveAs(document.getElementById("output").value, "Test.txt");
+      }
   </script>
 </head>
 
@@ -36,7 +39,7 @@
             <option selected>fonts</option>
             <option>arial black</option>
         </select>
-        <input id="button1" style="width: 45px; height: 24px;" type="button" size="8" value="Save" name="button1" onclick="normal_click()">
+        <input id="button1" style="width: 45px; height: 24px;" type="button" size="8" value="Save" name="button1" onclick="saveStaticDataToFile()">
 
         <input id="button1" type="button" value="B" name="button1" style="font-weight: bold; width: 26px; height: 24px" size="28" onclick="bold_click()">
 
