@@ -1,8 +1,6 @@
 ### Howdy This is my notepad project 🖖
 
-The aim of this project is to build a notepad application in as many languages as I can through my furloughed due to covid-19<br /> <br />
-
-### - Languages Planed to be used to make a Notepad...
+The aim of this project is to build a notepad application in as many languages as I can through my furloughed due to covid-19 Languages Planed to be used to make a Notepad<br /> <br /> 
 ### - Completed(Basic Implemation needs to be upgraded)...
 <p align="center">
 
